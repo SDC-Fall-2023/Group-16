@@ -1,5 +1,4 @@
-_This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[Project Title\]
+# \[UW Mad Eats\]
 
 ### Team Members
 - Name 1 (Project Lead)
@@ -13,7 +12,7 @@ _This is just a suggested template for the README of your project, feel free to 
 We created a website that ranks all the food options that we have in the UW Madison Campus.
 
 ### Built With
-- List any languages, frameworks, tools, etc. that your project uses here
+- JavaScript, HTML, and CSS
 
 ## Getting Started
 This is where you give instructions on how to run your project
