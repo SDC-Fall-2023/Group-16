@@ -1,46 +1,22 @@
-# \[UW Mad Eats\]
+# UW Mad Eats
 
 ### Team Members
-- Name 1 (Project Lead)
-- Name 2
-- Name 3
-- Name 4
-- Name 5
-- Name 6
+- Vishrut Agrawal (Project Lead)
+- Kyan Kox
+- Kyle Sha
+- James Yin
+- Matthew Giadla
+- Jacob Goldthorp
 
 ### Project Description
 We created a website that ranks all the food options that we have in the UW Madison Campus.
+This list of options include everywhere that a Wiscard can be swiped. This includes Dining Halls, 
+Badger Markets, Flamingo Runs, and any restaurants that accept Wiscard as payment. 
 
 ### Built With
-- JavaScript, HTML, and CSS
+- React for the front end
+- NodeJS and and ExpressJS
+- MySQL to manage all the data for the places
 
-## Getting Started
-This is where you give instructions on how to run your project
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 ## Demo
-If your app is hosted on a published website, include the link here
+Link Coming Soon
