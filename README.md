@@ -2,7 +2,7 @@
 
 ### Team Members
 - Vishrut Agrawal (Project Lead)
-- Kyan Kox
+- Kyan Cox
 - Kyle Sha
 - James Yin
 - Matthew Giadla
