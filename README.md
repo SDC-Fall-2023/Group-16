@@ -16,7 +16,7 @@ Badger Markets, Flamingo Runs, and any restaurants that accept Wiscard as paymen
 ### Built With
 - React for the front end
 - NodeJS and and ExpressJS
-- MySQL to manage all the data for the places
+- MySQL to manage all the data for the food places
 
 ## Demo
 Link Coming Soon
