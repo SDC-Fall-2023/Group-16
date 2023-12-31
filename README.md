@@ -1,7 +1,7 @@
 # UW Mad Eats
 
 ### Team Members
-- Vishrut Agrawal (Project Lead)
+- Vishrut Agrawal 
 - Kyan Cox
 - Kyle Sha
 - James Yin
